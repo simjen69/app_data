@@ -43,16 +43,8 @@ function displayEmployee(data) {
 	$('#price').html(commaSeparateNumber(employee.Price +'&#128;'));
 	
 
-	 if (employee.pool=1) {
-		$('#pool').text('Swimming pool');
-	} 
-	
- if (employee.Garage=1) {
-		$('#garage').text('Garage');
-	} 
 
-	
-	
+
 	console.log(employee.Area);
 
 	

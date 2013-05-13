@@ -16,5 +16,14 @@
     <author href="http://www.rioestates.com" email="simon@rioestates.com">
         Simon Chapman
     </author>
+	
+	<icon src="icon.png" />
+<gap:splash src="splash.png" />
+
+<icon src="icon-72.png" width="72" height="72" />
+
+ <preference name="stay-in-webview" value="false" />
+
+<preference name="exit-on-suspend" value="false" />
 
 </widget>
